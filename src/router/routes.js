@@ -80,6 +80,6 @@ export default [
   // 路由重定向
   {
     path: '/',
-    redirect: 'msite'
+    redirect: 'login'
   }
 ]

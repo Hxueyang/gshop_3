@@ -64,7 +64,7 @@
     name: 'Login',
     data() {
       return {
-        isShowUserLogin: true,  // 是否是用户名登录
+        isShowUserLogin: false,  // 是否是用户名登录
         isShowPwd: false ,// 是否显示密码
         countDownTime: 0 ,// 倒计时
         phone: '',
